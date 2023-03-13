@@ -550,7 +550,8 @@ footer .social-icons .instagram {
     width: 73rem;
     height: 15.4rem;
     margin-bottom: 8rem;
-    margin-left: -46rem;
+    padding-left: 20rem;
+    margin-left: -50rem;
   }
   .keep-track .snippets h2 {
     font-size: 36px;
@@ -671,12 +672,10 @@ footer .social-icons .instagram {
     cursor: pointer;
     color: #26BBA4;
   }
-  footer .social-icons .fb:hover,
-footer .social-icons .fb path:hover,
-footer .social-icons .twitter:hover,
-footer .social-icons .twitter path:hover,
-footer .social-icons .instagram:hover,
-footer .social-icons .instagram path:hover {
+  footer .social-icons .fb:hover path,
+footer .social-icons .twitter:hover path,
+footer .social-icons .instagram:hover path {
     cursor: pointer;
+    fill: #26BBA4 !important;
   }
 }/*# sourceMappingURL=styles.css.map */
