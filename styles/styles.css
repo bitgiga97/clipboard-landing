@@ -672,9 +672,9 @@ footer .social-icons .instagram {
     cursor: pointer;
     color: #26BBA4;
   }
-  footer .social-icons .fb:hover path,
-footer .social-icons .twitter:hover path,
-footer .social-icons .instagram:hover path {
+  footer .social-icons .fb:hover,
+footer .social-icons .twitter:hover,
+footer .social-icons .instagram:hover {
     cursor: pointer;
     fill: #26BBA4 !important;
   }

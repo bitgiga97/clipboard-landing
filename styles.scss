@@ -563,7 +563,7 @@ footer {
             .fb,
             .twitter,
             .instagram {
-                &:hover path {
+                &:hover {
                     cursor: pointer;
                     fill: #26BBA4 !important;
                 }
