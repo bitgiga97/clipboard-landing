@@ -565,7 +565,7 @@ footer {
             .instagram {
                 &:hover {
                     cursor: pointer;
-                    fill: #26BBA4 !important;
+                    filter: brightness(0) saturate(100%) invert(57%) sepia(81%) saturate(385%) hue-rotate(121deg) brightness(92%) contrast(90%);
                 }
             }
         }
